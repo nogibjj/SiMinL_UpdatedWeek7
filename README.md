@@ -1,3 +1,4 @@
+[![CI](https://github.com/nogibjj/SiMinL_UpdatedWeek7/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/SiMinL_UpdatedWeek7/actions/workflows/cicd.yml)
 
 # Assignment  - Package a Python Script into a Command-Line Tool (or Rust)
 This repository contains a Python package named chess_transfer that provides functionality for managing chess player transfer data between federations. The package allows users to perform CRUD (Create, Read, Update, Delete) operations on a SQL database, retrieve the latest transfer dates, and count the total number of transfers for each federation.
